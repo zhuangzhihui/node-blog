@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c349fba1-2b89-4af9-a60f-158e86d995ce" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/blog1/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog1/bin/www.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -79,7 +77,7 @@
       <path value="$PROJECT_DIR$/code-demo/http-test/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="40" />
     <option name="y" value="6" />
     <option name="width" value="1346" />
@@ -146,12 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1614516590315</updated>
       <workItem from="1614516591660" duration="1350000" />
-      <workItem from="1614777945132" duration="700000" />
+      <workItem from="1614777945132" duration="839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2050000" />
+    <option name="totallyTimeSpent" value="2189000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,8 +161,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
