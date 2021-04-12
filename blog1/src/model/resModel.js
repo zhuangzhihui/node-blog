@@ -16,7 +16,7 @@ class BaseModel {
 
 class SuccessModel extends BaseModel {
     constructor(data, message) {
-        super(data, message)
+        super(data, message) // 执行父类里面的构造函数 constructor
         this.errno = 0
     }
 }

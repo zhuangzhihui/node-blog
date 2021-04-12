@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c349fba1-2b89-4af9-a60f-158e86d995ce" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/code-demo/promise-test/files/a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-demo/promise-test/files/b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-demo/promise-test/files/c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-demo/promise-test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-demo/promise-test/promise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog1/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog1/src/controller/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog1/src/controller/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog1/src/model/resModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog1/src/model/resModel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog1/src/router/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog1/src/router/blog.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,38 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="resModel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog1/src/model/resModel.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code-demo/promise-test/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="14" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog1/app.js">
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code-demo/promise-test/promise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog1/src/controller/blog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog1/src/router/blog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="512">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -79,11 +67,16 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/blog1/bin/www.js" />
         <option value="$PROJECT_DIR$/blog1/src/router/user.js" />
-        <option value="$PROJECT_DIR$/blog1/src/model/resModel.js" />
         <option value="$PROJECT_DIR$/blog1/app.js" />
         <option value="$PROJECT_DIR$/blog1/src/controllor/blog.js" />
+        <option value="$PROJECT_DIR$/blog1/src/model/resModel.js" />
         <option value="$PROJECT_DIR$/blog1/src/controller/blog.js" />
         <option value="$PROJECT_DIR$/blog1/src/router/blog.js" />
+        <option value="$PROJECT_DIR$/code-demo/promise-test/files/c.json" />
+        <option value="$PROJECT_DIR$/code-demo/promise-test/files/a.json" />
+        <option value="$PROJECT_DIR$/code-demo/promise-test/files/b.json" />
+        <option value="$PROJECT_DIR$/code-demo/promise-test/index.js" />
+        <option value="$PROJECT_DIR$/code-demo/promise-test/promise.js" />
       </list>
     </option>
   </component>
@@ -105,7 +98,7 @@
       <path value="$PROJECT_DIR$/code-demo/http-test/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="40" />
     <option name="y" value="6" />
     <option name="width" value="1346" />
@@ -126,34 +119,13 @@
             <path>
               <item name="node-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog1" type="462c0819:PsiDirectoryNode" />
+              <item name="code-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="node-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="blog1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="code-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="promise-test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,6 +142,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\node-blog\code-demo\promise-test\files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\node-boke\code-demo\commonjs-test" />
     </key>
@@ -201,12 +176,13 @@
       <updated>1614516590315</updated>
       <workItem from="1614516591660" duration="1350000" />
       <workItem from="1614777945132" duration="839000" />
-      <workItem from="1617881079211" duration="4208000" />
+      <workItem from="1617881079211" duration="4411000" />
+      <workItem from="1618227111375" duration="4742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6397000" />
+    <option name="totallyTimeSpent" value="11342000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,7 +194,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24312268" />
@@ -253,6 +229,34 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog1/src/model/resModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog1/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog1/src/controller/blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog1/src/router/blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog1/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -338,31 +342,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog1/app.js">
+    <entry file="file://$PROJECT_DIR$/blog1/src/model/resModel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="450">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog1/src/controller/blog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="287">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog1/src/model/resModel.js">
+    <entry file="file://$PROJECT_DIR$/blog1/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="400">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog1/src/router/blog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="450">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-demo/promise-test/files/c.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-demo/promise-test/files/a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-demo/promise-test/files/b.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-demo/promise-test/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-demo/promise-test/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
