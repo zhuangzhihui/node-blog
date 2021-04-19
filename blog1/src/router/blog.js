@@ -1,5 +1,11 @@
-const { getList, getDetail, newBlog, updateBlog } = require('../controller/blog')
-const { SuccessModel, ErrorModel } = require('../model/resModel')
+const {
+    getList,
+    getDetail,
+    newBlog,
+    updateBlog,
+    delBlog
+} = require('../controller/blog')
+const {SuccessModel, ErrorModel} = require('../model/resModel')
 
 const handleBlogRouter = (req, res) => {
     const method = req.method // GET POST
@@ -24,22 +30,23 @@ const handleBlogRouter = (req, res) => {
         const data = newBlog(req.body)
         return new SuccessModel(data)
     }
-    
+
     // 更新博客
     if (method === 'POST' && req.path === '/api/blog/update') {
         const result = updateBlog(id, req.body)
         if (result) {
             return new SuccessModel()
-        } else {
-            return new ErrorModel('更新博客失败！')
         }
+        return new ErrorModel('更新博客失败！')
     }
 
     // 删除博客
     if (method === 'POST' && req.path === '/api/blog/del') {
-        return {
-            msg: "这是删除一篇博客"
+        const result = delBlog(id)
+        if (result) {
+            return new SuccessModel()
         }
+        return new ErrorModel('删除博客失败！')
     }
 }
 
